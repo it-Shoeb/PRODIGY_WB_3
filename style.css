@@ -251,7 +251,7 @@ body > * {
         margin-top: 1rem;
         gap: 1rem;
     }
-    .cell|{
+    .cell{
         height: 70px;
     }
 }
